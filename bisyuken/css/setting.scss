@@ -1,0 +1,11 @@
+$maincolor: #192c5f;
+
+.easing{
+	-webkit-transition: .4s cubic-bezier(.81,.56,.85,.59);
+	-moz-transition: .4s cubic-bezier(.81,.56,.85,.59);
+	transition: .4s cubic-bezier(.81,.56,.85,.59);
+}
+
+h1,h2,h3,h4,h5,th,.bold{
+	font:700 11px/1.6 'Crimson Text', Shuei Mincho B, sans-serif;
+}
